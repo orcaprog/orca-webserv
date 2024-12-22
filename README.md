@@ -33,8 +33,6 @@ This is a detailed description of the **Webserv** project, which involves creati
 3. **Dependencies**:
    - Use only C++ 98 features and standard C++ libraries.  
    - System calls and external functions allowed: `epoll`,  `socket`, `listen`, `accept`, `send`, `recv`, `fork`, etc.  
-   - No external libraries (e.g., Boost) are allowed.
-
 ---
 
 ## **Mandatory Features**
