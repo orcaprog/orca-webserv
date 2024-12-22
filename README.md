@@ -37,23 +37,6 @@ This is a detailed description of the **Webserv** project, which involves creati
 
 ---
 
-## **General Rules**
-1. **Stability**:
-   - The program **must not crash** under any circumstance (e.g., memory exhaustion).  
-   - If it crashes or exits unexpectedly, the project is considered non-functional.
-
-2. **Standards**:
-   - Use **C++ 98** and compile with flags:
-     ```bash
-     -Wall -Wextra -Werror
-     ```
-   - Prefer modern C++ features (e.g., `<cstring>` over `<string.h>`).
-
-3. **Resilience**:
-   - The server should handle errors gracefully, ensuring it never hangs or becomes unavailable.
-
----
-
 ## **Mandatory Features**
 ### 1. **HTTP Server Requirements**
 - **Non-blocking**: Use `poll()` (or equivalents) to handle all I/O operations.  
