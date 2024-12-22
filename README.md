@@ -99,7 +99,7 @@ This is a detailed description of the **Webserv** project, which involves creati
 
 ## **Key Constraints**
 - Do not use `execve` to call another web server.
-- No direct read/write operations without using `poll()` (or equivalents).
+- No direct read/write operations without using `epoll()` (or equivalents).
 - MacOS-specific: Use `fcntl` only for setting file descriptors to non-blocking mode.
 
 ---
