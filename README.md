@@ -34,8 +34,9 @@ This is a detailed description of the **Webserv** project, which involves creati
 
 3. **Dependencies**:
    - Use only C++ 98 features and standard C++ libraries.  
-   - System calls and external functions allowed: `epoll`,  `socket`, `listen`, `accept`, `send`, `recv`, `fork`, etc.  
+   - System calls and external functions allowed: `epoll`,  `socket`, `listen`, `accept`, `send`, `recv`, `fork`, etc.
 ---
+<img width="100%" alt="Hello World" src="https://github.com/orcaprog/orca-webserv/blob/main/carbon%20(3).png">
 
 ## **Mandatory Features**
 ### 1. **HTTP Server Requirements**
