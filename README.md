@@ -1,4 +1,4 @@
-<img width="100%" alt="Hello World" src="https://github.com/orcaprog/orca-ft_transcendence/blob/main/carbon%20(1).png">
+<img width="100%" alt="Hello World" src="https://github.com/orcaprog/orca-webserv/blob/main/carbon%20(3).png">
 
 This is a detailed description of the **Webserv** project, which involves creating an HTTP server in **C++ 98**. Here's a structured explanation of the key aspects and requirements:  
 
